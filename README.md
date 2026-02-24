@@ -1,5 +1,59 @@
-## Hi there 👋
+# Hi, I'm Harsha Ganugula 👋
 
+Frontend-Focused Engineer with Strong Backend Foundations
+
+---
+
+## 🚀 About Me
+
+- 3+ years building scalable full-stack applications
+- Currently working as Software Engineer
+- Passionate about React, API integration, and event-driven systems
+- Experience with Java (Spring Boot), React, Kafka, AWS, Azure
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React
+- JavaScript (ES6+)
+- HTML / CSS
+- Data Visualization (Recharts)
+
+**Backend**
+- Java / Spring Boot
+- Python
+- REST APIs
+- JWT Authentication
+
+**Cloud & DevOps**
+- AWS
+- Azure
+- CI/CD
+- Docker
+
+---
+
+## 📊 Featured Project
+
+### SaaS Analytics Dashboard
+A React-based analytics dashboard that integrates live API data and visualizes user metrics with charts and tables.
+
+🔗 Live Demo: https://saas-analytics-dashboard-v7f4.vercel.app  
+💻 GitHub: https://github.com/harshapavan412/saas-analytics-dashboard  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/your-linkedin
+- Portfolio: https://harshapavan412.github.io/personal-portfolio/
+- Email: pavanharsha412@gmail.com
+
+---
+
+⭐ Always learning. Always building.
 <!--
 **harshapavan412/harshapavan412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
