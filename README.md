@@ -51,7 +51,7 @@ A React-based analytics dashboard that integrates live API data and visualizes u
 
 - LinkedIn: https://linkedin.com/in/your-linkedin
 - Portfolio: https://harshapavan412.github.io/personal-portfolio/
-- Email: pavanharsha412@gmail.com
+- Email: harshaganugula17@gmail.com
 
 ---
 
