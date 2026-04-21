@@ -17,13 +17,15 @@ Frontend-Focused Engineer with Strong Backend Foundations
 
 **Frontend**
 - React
+- Type Script
 - JavaScript (ES6+)
 - HTML / CSS
 - Data Visualization (Recharts)
 
 **Backend**
-- Java / Spring Boot
-- Python
+- Node.js
+- Express
+- SpringBoot
 - REST APIs
 - JWT Authentication
 
