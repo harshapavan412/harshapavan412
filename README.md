@@ -50,7 +50,7 @@ A React-based analytics dashboard that integrates live API data and visualizes u
 ## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/your-linkedin
-- Portfolio: https://harshapavan412.github.io/personal-portfolio/
+- Portfolio: https://personal-portfolio-zeta-lovat.vercel.app/
 - Email: harshaganugula17@gmail.com
 
 ---
