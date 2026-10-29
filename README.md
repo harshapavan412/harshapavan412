@@ -4,14 +4,40 @@ Frontend-Focused Engineer with Strong Backend Foundations
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me# Hi, I'm Harsha 👋
+
+Application Developer with 4+ years building business applications across the full
+project life cycle, from requirements and database design to deployment and support.
+
+**Core stack:** C# · .NET Core · ASP.NET MVC / Web API · Entity Framework Core ·
+Angular · TypeScript · RxJS · Microsoft SQL Server · Oracle
+
+**Also:** xUnit / NUnit / Moq · GitLab · CI/CD (Jenkins, TeamCity) · Docker · IIS · PowerShell
+
+### Featured project
+**[TransactionsIngest](https://github.com/harshapavan412/TransactionsIngest)**:
+ASP.NET 10 + Angular app that imports transaction snapshots from multiple source systems,
+reconciles them with a database, and keeps a field-level audit history. Idempotent,
+atomic imports with automated tests.
+
+📫 harshaganugula@outlook.com
 
 - 3+ years building scalable full-stack applications
 - Currently working as Software Engineer
 - Passionate about React, API integration, and event-driven systems
 - Experience with Java (Spring Boot), React, Kafka, AWS, Azure
 
----
+---# Hi, I'm Harsha 👋
+
+Application Developer with 4+ years building business applications across the full
+project life cycle, from requirements and database design to deployment and support.
+
+**Core stack:** C# · .NET Core · ASP.NET MVC / Web API · Entity Framework Core ·
+Angular · TypeScript · RxJS · Microsoft SQL Server · Oracle
+
+**Also:** xUnit / NUnit / Moq · GitLab · CI/CD (Jenkins, TeamCity) · Docker · IIS · PowerShell
+
+📫 harshaganugula@outlook.com
 
 ## 🛠 Tech Stack
 
